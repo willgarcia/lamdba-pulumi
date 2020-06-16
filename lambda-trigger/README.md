@@ -58,4 +58,6 @@ You can upload a file throught the AWS web console (or command line with `aws s3
 
 12. What would be a good real use case for this s3 triggers? Is there any other types of triggers available?
 
-12. What can/must be improved in this infrastructure code?
+13. What can/must be improved in this infrastructure code?
+
+14. Is this code+stack imperative or declarative?
