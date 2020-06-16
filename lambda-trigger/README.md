@@ -2,11 +2,15 @@
 
 1. Create a new stack:
 
-$ pulumi stack init [you-first-name]
+```bash
+pulumi stack init [you-first-name]
+```
 
 2. Set the AWS region:
 
-$ pulumi config set aws:region us-east-1
+```bash
+pulumi config set aws:region us-east-1
+```
 
 3. Restore NPM modules via `npm install` or `yarn install`.
 

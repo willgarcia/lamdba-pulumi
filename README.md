@@ -1,5 +1,13 @@
 # Serverless
 
+## Pre-requisites
+
+* Pulumi CLI
+
+```bash
+brew install pulumi
+```
+
 ## AWS Lambda
 
 In this exercise, we are going to triggered an AWS Lambda function everytime a file is pushed into an S3 bucket.
